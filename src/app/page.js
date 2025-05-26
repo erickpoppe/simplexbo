@@ -79,7 +79,7 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-center mb-12">Get in Touch</h2>
+          <h2 className="text-3xl font-bold text-center mb-12">Manténgase en contacto</h2>
           <div className="max-w-lg mx-auto">
             <form className="space-y-4" onSubmit={handleSubmit}>
               <input
@@ -94,7 +94,7 @@ export default function Home() {
                 type="submit"
                 className="w-full bg-blue-600 text-white p-3 rounded-md font-semibold hover:bg-blue-700"
               >
-                Contact Us
+                Contáctenos
               </button>
             </form>
           </div>
